@@ -19,7 +19,7 @@ This system:
 - Generates automated PDF operational report
 - Provides business recommendations
 
----
+--
 
 ## 📊 Key Features
 - Delay ratio analysis
@@ -28,12 +28,12 @@ This system:
 - Vendor performance scoring
 - AI-generated insights report (PDF)
 
----
+--
 
 ## 🛠 Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, ReportLab
 
----
+--
 
 ## 📈 Output
 - AI-powered PDF report
@@ -41,7 +41,7 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, ReportLab
 - Vendor ranking system
 - Hotspot detection map
 
----
+--
 
 ## 📌 Business Impact
 - Reduce ride delays
