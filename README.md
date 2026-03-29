@@ -9,7 +9,7 @@ Ride-hailing platforms face:
 - Low captain efficiency
 - Revenue loss due to cancellations
 
----
+--
 
 ## 🧠 Solution
 This system:
