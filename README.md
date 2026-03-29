@@ -49,3 +49,6 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib, ReportLab
 - Optimize supply-demand balance
 - Increase customer satisfaction
 
+## DataSet Used 
+https://www.kaggle.com/code/asifsaad/nyc-taxi-trip-duration/notebook
+
